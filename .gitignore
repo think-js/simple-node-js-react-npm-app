@@ -1,5 +1,8 @@
 .DS_Store
 # Logs
+notes.txt
+docker_help.txt
+Jenkinsfile_ok
 logs
 *.log
 npm-debug.log*
